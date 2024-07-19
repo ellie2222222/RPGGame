@@ -1,0 +1,23 @@
+Helmet :
+HP 12
+AR 8
+MR 4
+SPD 7
+
+Chesplate :
+HP 30
+AR 10
+MR 5
+SPD 2
+
+Leggings :
+HP 8
+AR 5
+MR 2
+SPD 5
+
+Boots :
+HP 5
+AR 3
+MR 1
+SPD 10
